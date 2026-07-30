@@ -67,7 +67,7 @@ streamlit run Home.py
 # Datasets Used
 - Ecommerce Purchases Dataset
 - Salaries Dataset
-- 
+  
 # Learning Outcomes
 After completing this project, you will understand:
 - Python programming fundamentals
@@ -77,7 +77,7 @@ After completing this project, you will understand:
 - Statistical analysis
 - Interactive dashboard development with Streamlit
 - Basic Machine Learning data preprocessing
-- 
+ 
 #  Project Preview
 - Python Basics
 - NumPy Operations
