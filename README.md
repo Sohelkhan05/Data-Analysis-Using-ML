@@ -11,20 +11,8 @@ This repository contains practical implementations of:
 The project is structured to provide hands-on learning for beginners in Data Analysis and Machine Learning.
 
 # Project Structure
-Data-Analysis-Using-ML/
-│
-├── Home.py
-├── Pages/
-│   ├── 1_Python_Basics.py
-│   ├── 2_Numpy_Operations.py
-│   └── 3_Pandas_Operations.py
-│
-├── Datasets/
-│   ├── Ecommerce_Purchases.csv
-│   └── Salaries.csv
-│
-├── requirements.txt
-└── README.md
+<img width="283" height="341" alt="image" src="https://github.com/user-attachments/assets/4e4595d8-c6a9-4b5c-9b7a-9c5a43de883f" />
+
 
 # Features
 # Python Basics
