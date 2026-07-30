@@ -7,8 +7,8 @@ st.title("Pandas Operations")
 
 st.header("Part - A : Data Exploration")
 with st.expander("Q-1 : Load the dataset into a DataFrame"):
-    customers = pd.read_csv('D:/MCA/ML Ass/Data-Analysis-Using-ML/Datasets/Ecommerce_Purchases.csv')
-    salaries = pd.read_csv('D:/MCA/ML Ass/Data-Analysis-Using-ML/Datasets/Salaries.csv')
+    customers = pd.read_csv('Datasets/Ecommerce_Purchases.csv')
+    salaries = pd.read_csv('Datasets/Salaries.csv')
     st.write(customers)
     st.write(salaries)
 
