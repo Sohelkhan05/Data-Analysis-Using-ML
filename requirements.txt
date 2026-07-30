@@ -1,4 +1,4 @@
-panda
-numpy
-pyhton
 streamlit
+numpy
+pandas
+python
